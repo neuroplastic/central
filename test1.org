@@ -1,2 +1,3 @@
 * wiki page test1 made in gh
 ** second tier
+** adding line via Gollum local editor
